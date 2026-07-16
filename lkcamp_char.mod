@@ -1,1 +1,0 @@
-./lkcamp_char.o
